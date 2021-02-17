@@ -1,20 +1,21 @@
 # Project Title: ReadME Generator
 
-### Description: ReadME file Generator for project being conducted in the 12 week coding boot camp offered by UofT.
+### Description: It is a ReadMe Generator project. The purpose of this project is to create a purposeful ReadME GENERATOR that can be used for future projects.
 
 ## [GitHub Link](http://github.com/jmo1point0)
 
+** [GitHub Profile](https://github.com/jmo1point0) **
 
 ## Installation:
  undefined    
 ## Usage:
- As a ReadME Generator
+ It is a ReadMe Generator project. The purpose of this project is to create a purposeful ReadME GENERATOR that can be used for future projects. You open "integrated Terminal" run "Node index.js and fill in the prompts as requested to fill out the readME.
 ## License:
  undefined
 ## Contributing:
- Jordan Mossing contributed to this project. 
-## Testing:
- Multiple run through via git bash terminal executing node index.js and going through the prompts.
+ Contributions made by Jordan Mossing using various technolgies. 
+## Test:
+ I ran through the readME generator in the terminal serveral times to test it, get, the product to my liking, and to work out and bugs. This was done right in the integrated terminal.
 ## Questions:
  Reach out to me on my GitHub page at the following Link:
  -[GitHub Profile](https://github.com/jmo1point0)    
