@@ -35,6 +35,9 @@ function generateMarkdown(data) {
  -[GitHub Profile](https://github.com/${data.github})    
  Or by email: ${data.email}
 
+ # ![Image](./READMEpictureREADME.PNG)
+
+
 `;
 }
 
