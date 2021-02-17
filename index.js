@@ -55,9 +55,10 @@ const questions = [
 ];
 
 //To write README file using the user INPUT
-const writeToFile = (fileName, data) =>
-    fs.writeFileSync(path.join(process.cwd(), fileName), data);
-     
+const writeToFile = (fileName, data) => {
+   // console.log("Writing file ..")
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+}
 //Function to initialize the application
 const init = async () => {
     let inquirerResponses = await inquirer.prompt(questions);
