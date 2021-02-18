@@ -17,6 +17,15 @@ return `# Project Title: ${data.title}
 
 ## Description: ${data.description}
 
+# Table of Contents:
+*[Installation](#installation)
+*[Usage](#usage)
+*[License](#license)
+*[Contributions](#contribution)
+*[Test](#test)
+*[Questions](#questions)
+
+
 ## [GitHub Link](http://github.com/${data.github})
 
 ** [GitHub Profile](${data.gitHubP}) **

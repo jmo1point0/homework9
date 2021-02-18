@@ -1,8 +1,17 @@
-# Project Title: ReadME Generator
+# Project Title: ReadMe Generator
 
-## Description: It is a ReadMe Generator project. The purpose of this project is to create a purposeful ReadME GENERATOR that can be used for future projects.
+## Description: ReadMe Generator
 
-## [GitHub Link](http://github.com/Jmo1point0)
+# Table of Contents:
+*[Installation](#installation)
+*[Usage](#usage)
+*[License](#license)
+*[Contributions](#contribution)
+*[Test](#test)
+*[Questions](#questions)
+
+
+## [GitHub Link](http://github.com/jmo1point0)
 
 ** [GitHub Profile](https://github.com/jmo1point0) **
 
@@ -24,7 +33,7 @@
  ## Questions:
  
 Reach out to me on my GitHub page at the following Link:
- -[GitHub Profile](https://github.com/Jmo1point0)    
+ -[GitHub Profile](https://github.com/jmo1point0)    
  Or by email: jordan.mossing@gmail.com
  
  # ![Image](./READMEpictureREADME.PNG)
