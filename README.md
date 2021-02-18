@@ -1,6 +1,6 @@
-# Project Title: ReadMe Generator
+# Project Title: README Generator
 
-## Description: ReadMe Generator
+## Description: It is a ReadMe Generator project. The purpose of this project is to create a purposeful ReadME GENERATOR that can be used for future projects.
 
 # Table of Contents:
 *[Installation](#installation)
@@ -25,10 +25,10 @@
  undefined
 
  ## Contributing:
- Contributions made by Jordan Mossing using various technolgies, but anyone could go ahead and fill out this readme generator and create a readME. 
+ Contributions made by Jordan Mossing using various technolgies, but anyone could go ahead and fill out this readme generator and create a readME file in the future for future projects. 
 
  ## Test:
- I ran through the readME generator in the terminal serveral times to test it, get, the product to my liking, and to work out and bugs. This was done right in the integrated terminal. Run command node index.js and fill out all the prompts.
+ I ran through the readME generator in the terminal serveral times to test it, get the product to my liking, and to work out and bugs. This was done right in the integrated terminal. Run command node index.js and fill out all the prompts.
 
  ## Questions:
  
@@ -39,4 +39,6 @@ Reach out to me on my GitHub page at the following Link:
  # ![Image](./READMEpictureREADME.PNG)
 
  # ![Image](./READMEtesting.PNG)
+
+ # [Vimeo Link](https://vimeo.com/513644649/719843b682)
 
