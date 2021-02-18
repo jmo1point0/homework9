@@ -1,4 +1,4 @@
-# Project Title: README Generator
+# Project Title: ReadME Generator
 
 ## Description: It is a ReadMe Generator project. The purpose of this project is to create a purposeful ReadME GENERATOR that can be used for future projects.
 
@@ -13,7 +13,7 @@
 
 ## [GitHub Link](http://github.com/jmo1point0)
 
-** [GitHub Profile](https://github.com/jmo1point0) **
+** [GitHub Profile](https://github.com/jmo1point0/) **
 
 ## Installation:
  undefined    
@@ -22,7 +22,7 @@
  It is a ReadMe Generator project. The purpose of this project is to create a purposeful ReadME GENERATOR that can be used for future projects. You open "integrated Terminal" run "Node index.js and fill in the prompts as requested to fill out the readME.
 
  ## License:
- undefined
+ ![GitHub license](https://img.shields.io/badge/license-MIT-orange)
 
  ## Contributing:
  Contributions made by Jordan Mossing using various technolgies, but anyone could go ahead and fill out this readme generator and create a readME file in the future for future projects. 
@@ -40,5 +40,6 @@ Reach out to me on my GitHub page at the following Link:
 
  # ![Image](./READMEtesting.PNG)
 
- # [Vimeo Link](https://vimeo.com/513644649/719843b682)
+ # [Vimeo Link](https://vimeo.com/513644649/719843b682) 
+ # Description: A link to a brief walkthrough video that demonstrates the functionality of the README generator, which will take you from start to finish. 
 
